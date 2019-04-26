@@ -1,0 +1,82 @@
+[
+  {
+    "TypeID": "defde1e0-af30-40a6-8d39-05d376e2d478",
+    "TypeName": "Action and adventure"
+  },
+  {
+    "TypeID": "d3952338-a433-464f-a1cd-207ce9cca0ab",
+    "TypeName": "Alternate history"
+  },
+  {
+    "TypeID": "2c7d467c-efea-4e1a-ac15-58c9fdae6b49",
+    "TypeName": "Anthology"
+  },
+  {
+    "TypeID": "8356f2e8-7768-425f-9ca4-11291206ce90",
+    "TypeName": "Chick lit"
+  },
+  {
+    "TypeID": "3cb9030b-5224-4c03-8d81-04cf1246676a",
+    "TypeName": "Children's"
+  },
+  {
+    "TypeID": "a81ec4bf-1b53-4415-94c6-0d0af1724e87",
+    "TypeName": "Comic book"
+  },
+  {
+    "TypeID": "26538828-5660-4b53-91cb-d69f89865ece",
+    "TypeName": "Coming-of-age"
+  },
+  {
+    "TypeID": "d50d2843-68b0-4402-8f53-12a442189079",
+    "TypeName": "Drama"
+  },
+  {
+    "TypeID": "7d61591d-4b04-4328-998b-e171511100ed",
+    "TypeName": "Crime"
+  },
+  {
+    "TypeID": "554ed32b-7976-4423-b2c8-7590c69e02b6",
+    "TypeName": "Fairytale"
+  },
+  {
+    "TypeID": "f6ff5181-7134-4bd1-9aac-78ee102b0fad",
+    "TypeName": "Fantasy"
+  },
+  {
+    "TypeID": "9556d482-be5f-4a9c-94dc-b819d14ecdb8",
+    "TypeName": "Horror"
+  },
+  {
+    "TypeID": "58b431da-d33c-477d-99d7-2a378ead60bc",
+    "TypeName": "Mystery"
+  },
+  {
+    "TypeID": "7cbcf5a6-caee-4947-bd4d-0b968e317fcf",
+    "TypeName": "Picture book"
+  },
+  {
+    "TypeID": "9d974040-37e0-43e5-85d3-75ae04940380",
+    "TypeName": "Romance"
+  },
+  {
+    "TypeID": "328f51df-e7af-4220-890a-a85cd477721f",
+    "TypeName": "Science fiction"
+  },
+  {
+    "TypeID": "39308b3e-d638-41fa-8cff-b1757e4dfab0",
+    "TypeName": "Short story"
+  },
+  {
+    "TypeID": "5ca3b5e0-ceb6-4b88-9178-d33d6adaf25e",
+    "TypeName": "Thriller"
+  },
+  {
+    "TypeID": "5a75e27d-f695-4528-80d3-f9b1cb4feacf",
+    "TypeName": "Young adult"
+  },
+  {
+    "TypeID": "b7cf0cc7-d3a5-457d-b0fa-1788dda79727",
+    "TypeName": "Art"
+  }
+]
