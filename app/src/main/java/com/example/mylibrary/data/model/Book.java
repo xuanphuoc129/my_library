@@ -1,6 +1,7 @@
 package com.example.mylibrary.data.model;
 
 import android.arch.persistence.room.ColumnInfo;
+import android.arch.persistence.room.Embedded;
 import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.ForeignKey;
 import android.arch.persistence.room.PrimaryKey;
@@ -33,9 +34,41 @@ public class Book {
     @ForeignKey(parentColumns = "TypeID", childColumns = "TypeID", entity = BookType.class)
     private String TypeID;     // mã loại sách
 
+    @ColumnInfo(name = "Description")
+    private String Description;
+
+    @ColumnInfo(name = "RateNumber")
+    private float RateNumber;
+
+    @Embedded(prefix = "_")
+    private Author author;
 
     public Book() {
 
+    }
+
+    public Author getAuthor() {
+        return author;
+    }
+
+    public void setAuthor(Author author) {
+        this.author = author;
+    }
+
+    public String getDescription() {
+        return Description;
+    }
+
+    public void setDescription(String description) {
+        Description = description;
+    }
+
+    public float getRateNumber() {
+        return RateNumber;
+    }
+
+    public void setRateNumber(float rateNumber) {
+        RateNumber = rateNumber;
     }
 
     public String getBookID() {

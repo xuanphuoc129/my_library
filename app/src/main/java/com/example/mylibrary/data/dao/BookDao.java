@@ -28,10 +28,10 @@ public interface BookDao {
     @Transaction
     long[] addAllBook(List<Book> book);     // thêm nhiều sách
 
-    @Query("SELECT * FROM books")
+    @Query("SELECT books.AuthorID, books._AuthorName, RateNumber, BookID, BookName, BookThumbnail, TypeID FROM books, authors where books.AuthorID = authors.AuthorID")
     List<Book> getAllBook();     // lấy toàn bộ sách
 
-    @Query("SELECT * FROM books WHERE BookName LIKE :name")
+    @Query("SELECT RateNumber, BookID, BookName, AuthorName, BookThumbnail, TypeID FROM books, authors WHERE books.AuthorID = authors.AuthorID AND BookName LIKE :name")
     List<Book> searchBookByName(String name);     // tìm kiếm sách theo tên sách
 
     @Query(value = "SELECT * FROM authors WHERE AuthorID =:authorId")
@@ -53,4 +53,10 @@ public interface BookDao {
     @Query("SELECT * FROM books WHERE BookID =:bookID LIMIT 1")
     Book getBookByBookID(String bookID);  //   Lấy thông tin sách theo mã sách
 
+    @Query("SELECT * FROM book_type WHERE TypeID IN (SELECT DISTINCT TypeID FROM books) LIMIT 5")
+    @Transaction
+    List<BookInType> getBookInTypePreview();
+
+    @Query("SELECT books.AuthorID, books._AuthorName, RateNumber, BookID, BookName, BookThumbnail, TypeID FROM books, authors where RateNumber > 3 AND books.AuthorID = authors.AuthorID LIMIT 10")
+    List<Book> getBookPopular();
 }

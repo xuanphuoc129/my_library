@@ -1,502 +1,142 @@
 [
   {
-    "BookName": "No One Writes to the Colonel (El coronel no tiene quien le escriba)",
-    "BookThumbnail": "https://robohash.org/repellatrerumautem.png?size=50x50&set=set1",
-    "BookID": "f0a6a1e9-9985-4c4d-a582-b48ce6b7ec75"
+    "BookID": "03ffd1c3b07050d69800af75582375d6",
+    "BookName": "Anything for Her (Pour elle)",
+    "BookThumbnail": "https://www.elledriver.fr/sites/default/files/styles/movie-poster/public/ANYTHING%20FOR%20HER%20-%20Poster.jpg?itok=EGsoHO-1",
+    "Description": "id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit",
+    "RateNumber": 4.0
   },
   {
-    "BookName": "Border Feud",
-    "BookThumbnail": "https://robohash.org/voluptatumdoloribusnam.jpg?size=50x50&set=set1",
-    "BookID": "20184b4a-8cd8-405a-9568-ad7a039b013b"
+    "BookID": "5b11f7c2c542d5125b16122bc739ab33",
+    "BookName": "Escape to Witch Mountain",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Race_to_witch_mountain_film.jpg/220px-Race_to_witch_mountain_film.jpg",
+    "Description": "diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac",
+    "RateNumber": 2.4
   },
   {
-    "BookName": "Villain, The (Le Vilain)",
-    "BookThumbnail": "https://robohash.org/eadoloresquia.bmp?size=50x50&set=set1",
-    "BookID": "6f4810df-fcfd-4964-a01f-43d94bc4ae08"
+    "BookID": "f14a97e1017c3af6e3a306a3f441ca79",
+    "BookName": "Double Play: James Benning and Richard Linklater",
+    "BookThumbnail": "https://musicart.xboxlive.com/7/2e210400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "Description": "amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis",
+    "RateNumber": 1.1
   },
   {
-    "BookName": "Killers",
-    "BookThumbnail": "https://robohash.org/etsolutaet.bmp?size=50x50&set=set1",
-    "BookID": "8495a32d-4177-459e-a787-7e0841c8659a"
+    "BookID": "aec01b1e9fa3b7dc93726cd8f4356f3d",
+    "BookName": "Zombie Apocalypse",
+    "BookThumbnail": "https://images.gr-assets.com/books/1376426199l/13587209.jpg",
+    "Description": "in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim",
+    "RateNumber": 1.4
   },
   {
-    "BookName": "Kumiko, the Treasure Hunter",
-    "BookThumbnail": "https://robohash.org/reprehenderitauta.png?size=50x50&set=set1",
-    "BookID": "841760ba-f657-4f62-a809-67e2d5bfc277"
+    "BookID": "788293c6ea273a40d5e81be00e496d8c",
+    "BookName": "Destiny (a.k.a. Between Two Worlds) (Der müde Tod)",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/DerMudeTodDVD.png/220px-DerMudeTodDVD.png",
+    "Description": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet",
+    "RateNumber": 2.5
   },
   {
-    "BookName": "102 Dalmatians",
-    "BookThumbnail": "https://robohash.org/natusnesciuntmaxime.bmp?size=50x50&set=set1",
-    "BookID": "1910a563-046f-4af3-abc5-690d49639ea7"
+    "BookID": "c42d46d0a1463071a66d1ce0105cbd74",
+    "BookName": "Something's Gotta Give",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Somethings_gotta_give.jpg/220px-Somethings_gotta_give.jpg",
+    "Description": "quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue",
+    "RateNumber": 1.4
   },
   {
-    "BookName": "Tonight You're Mine",
-    "BookThumbnail": "https://robohash.org/facilisvoluptasculpa.jpg?size=50x50&set=set1",
-    "BookID": "7f18916c-2c70-4e7e-8d1b-2152d8cb2b2f"
+    "BookID": "703f90ee3428278c6300c51b62e9873d",
+    "BookName": "Children of the Night",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Children_of_the_night.jpg/220px-Children_of_the_night.jpg",
+    "Description": "pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc",
+    "RateNumber": 2.2
   },
   {
-    "BookName": "Big River Man",
-    "BookThumbnail": "https://robohash.org/commodidelenitiharum.jpg?size=50x50&set=set1",
-    "BookID": "1aa9c265-c81c-4bd2-86ce-149346ffaa8c"
+    "BookID": "f1482240924802c7ce37e41f1f815915",
+    "BookName": "Genocide",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/The_Armenian_Genocide_%282006_film_poster%29.png/250px-The_Armenian_Genocide_%282006_film_poster%29.png",
+    "Description": "lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci",
+    "RateNumber": 1.7
   },
   {
-    "BookName": "Catfish in Black Bean Sauce",
-    "BookThumbnail": "https://robohash.org/istenemoet.bmp?size=50x50&set=set1",
-    "BookID": "053164aa-a7ad-489f-9b63-dd4c3b42afa7"
+    "BookID": "129c4226c99d8748daa9fc5ec0381e6a",
+    "BookName": "Dead Silence",
+    "BookThumbnail": "https://static1.squarespace.com/static/5637f9fbe4b0baa6d85a1011/t/589894402994ca37c63428d1/1486394433439/",
+    "Description": "consequat ut nulla sed accumsan felis ut at dolor quis odio",
+    "RateNumber": 3.7
   },
   {
-    "BookName": "Death Race 3: Inferno",
-    "BookThumbnail": "https://robohash.org/totamexplicabodoloremque.jpg?size=50x50&set=set1",
-    "BookID": "4a8a91bf-dc67-47ca-82cc-5c0b2f674448"
+    "BookID": "90a59dc12ba864061ab04d4a57ab5286",
+    "BookName": "Alice",
+    "BookThumbnail": "https://images-na.ssl-images-amazon.com/images/I/618uZRUCKkL.jpg",
+    "Description": "tristique est et tempus semper est quam pharetra magna ac consequat",
+    "RateNumber": 3.8
   },
   {
-    "BookName": "Chaos",
-    "BookThumbnail": "https://robohash.org/natusmagnamreiciendis.jpg?size=50x50&set=set1",
-    "BookID": "468cbc2d-063d-4873-8068-04b7536b3218"
+    "BookID": "9b73bc5a3c1afbded4febba68b1be100",
+    "BookName": "Mortal Thoughts",
+    "BookThumbnail": "https://resizing.flixster.com/Mt0ca9Z6YyUKCwtQQxLIrbJkQrM=/206x305/v1.bTsxMTIwOTgyMDtqOzE4MDM5OzEyMDA7MTUwMDsyMDAw",
+    "Description": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+    "RateNumber": 3.3
   },
   {
-    "BookName": "Pendulum",
-    "BookThumbnail": "https://robohash.org/eaautab.bmp?size=50x50&set=set1",
-    "BookID": "67227452-3b5b-42fb-880a-9a7162988245"
+    "BookID": "b8300c94d658debcd77ff9cdeb009120",
+    "BookName": "Life of Emile Zola, The",
+    "BookThumbnail": "https://robohash.org/minimadolorumnulla.jpg?size=160x160&set=set1",
+    "Description": "in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt",
+    "RateNumber": 1.4
   },
   {
-    "BookName": "No Time for Love",
-    "BookThumbnail": "https://robohash.org/estvoluptatemet.jpg?size=50x50&set=set1",
-    "BookID": "473b8d00-e44d-4981-aa94-52906f426a3b"
+    "BookID": "5afd8d3faa719cf4e3f524d946fe7159",
+    "BookName": "Town That Dreaded Sundown, The",
+    "BookThumbnail": "https://robohash.org/veritatisadpossimus.jpg?size=160x160&set=set1",
+    "Description": "congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat",
+    "RateNumber": 2.2
   },
   {
-    "BookName": "Arena, The (a.k.a. Naked Warriors)",
-    "BookThumbnail": "https://robohash.org/natustemporibussunt.bmp?size=50x50&set=set1",
-    "BookID": "5f721363-16b2-45a7-aedc-fd17e4117d88"
+    "BookID": "9d637fde7ebf33e4babaa645a1794895",
+    "BookName": "April Captains (Capitães de Abril)",
+    "BookThumbnail": "https://images-na.ssl-images-amazon.com/images/I/51dK5A0%2BRBL._SY445_.jpg",
+    "Description": "proin at turpis a pede posuere nonummy integer non velit donec diam",
+    "RateNumber": 4.5
   },
   {
-    "BookName": "True Confession",
-    "BookThumbnail": "https://robohash.org/doloremquequisquamoccaecati.png?size=50x50&set=set1",
-    "BookID": "b91219b3-87e3-4eee-a14e-6bc9db681874"
+    "BookID": "2240c876c3b8f5c2399a67ab771929f8",
+    "BookName": "Sergeant Rutledge",
+    "BookThumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sergeant_Rutledge_image.jpg/220px-Sergeant_Rutledge_image.jpg",
+    "Description": "turpis enim blandit mi in porttitor pede justo eu massa donec",
+    "RateNumber": 3.9
   },
   {
-    "BookName": "Daughters of the Dust",
-    "BookThumbnail": "https://robohash.org/vitaeautnisi.jpg?size=50x50&set=set1",
-    "BookID": "09b602b8-7226-4573-8200-c3bf9f729126"
+    "BookID": "c395c3e8992440d0c9cec65f310de200",
+    "BookName": "Muse, The",
+    "BookThumbnail": "https://robohash.org/undemagnamqui.jpg?size=160x160&set=set1",
+    "Description": "eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
+    "RateNumber": 2.0
   },
   {
-    "BookName": "Affair of the Heart, An",
-    "BookThumbnail": "https://robohash.org/minimaaccusantiumtotam.png?size=50x50&set=set1",
-    "BookID": "865ad170-7d48-448c-99fb-aeb80cd4d87c"
+    "BookID": "10b168843182cbba2805766b21e3e1ce",
+    "BookName": "Feel the Noise",
+    "BookThumbnail": "https://images-na.ssl-images-amazon.com/images/I/51RvWA7YPEL._SY445_.jpg",
+    "Description": "augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean",
+    "RateNumber": 4.5
   },
   {
-    "BookName": "Wedding Director, The (Il regista di matrimoni)",
-    "BookThumbnail": "https://robohash.org/utullamipsam.jpg?size=50x50&set=set1",
-    "BookID": "f17e50f3-fe1e-4dcd-a5ea-78bcb55a246f"
+    "BookID": "0bfb9fa011e624b76a20a777df1c42b3",
+    "BookName": "Crimes of the Heart",
+    "BookThumbnail": "https://images-na.ssl-images-amazon.com/images/I/512E7Q56NML._SY445_.jpg",
+    "Description": "donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque",
+    "RateNumber": 3.6
   },
   {
-    "BookName": "Big Girls Don't Cry (Große Mädchen weinen nicht)",
-    "BookThumbnail": "https://robohash.org/suscipitconsecteturnesciunt.jpg?size=50x50&set=set1",
-    "BookID": "9025ba1e-808c-43cd-a1f5-d101df3401fa"
+    "BookID": "293b01428c80c49413707bf447d12965",
+    "BookName": "Grass: A Nation's Battle for Life",
+    "BookThumbnail": "https://robohash.org/quoassumendaquaerat.jpg?size=160x160&set=set1",
+    "Description": "sed nisl nunc rhoncus dui vel sem sed sagittis nam congue",
+    "RateNumber": 1.3
   },
   {
-    "BookName": "3 Ninjas",
-    "BookThumbnail": "https://robohash.org/earumdoloresdolorum.png?size=50x50&set=set1",
-    "BookID": "8e365f9c-eabb-453b-a582-7a31a753df94"
-  },
-  {
-    "BookName": "Death Watch (La Mort en Direct)",
-    "BookThumbnail": "https://robohash.org/nisiadipisciet.jpg?size=50x50&set=set1",
-    "BookID": "91c2917e-292b-4624-845b-8e5794fc58c5"
-  },
-  {
-    "BookName": "Defiant Ones, The",
-    "BookThumbnail": "https://robohash.org/rerumrepellendusab.jpg?size=50x50&set=set1",
-    "BookID": "7a6f5a44-7205-47d4-b837-ddbcb8d66974"
-  },
-  {
-    "BookName": "Beautiful",
-    "BookThumbnail": "https://robohash.org/deseruntdoloremnam.bmp?size=50x50&set=set1",
-    "BookID": "eedc641c-fb52-41f0-971e-304c6dc3f92d"
-  },
-  {
-    "BookName": "Joyride",
-    "BookThumbnail": "https://robohash.org/estplaceatdeserunt.jpg?size=50x50&set=set1",
-    "BookID": "0a1321b0-573e-4425-90c3-220cbfa04a10"
-  },
-  {
-    "BookName": "Jesus of Nazareth",
-    "BookThumbnail": "https://robohash.org/optiocumqueminima.jpg?size=50x50&set=set1",
-    "BookID": "3551be6b-5558-4f11-acb1-30a268a38df4"
-  },
-  {
-    "BookName": "From the Clouds to the Resistance (Dalla nube alla resistenza)",
-    "BookThumbnail": "https://robohash.org/porroundequia.jpg?size=50x50&set=set1",
-    "BookID": "8ac391c2-63ba-4c07-b5ba-b4c13b8d8ed6"
-  },
-  {
-    "BookName": "Batman",
-    "BookThumbnail": "https://robohash.org/quamsuntimpedit.png?size=50x50&set=set1",
-    "BookID": "2df7f9d6-8aa1-4776-b0ef-6ebd55c4797f"
-  },
-  {
-    "BookName": "Sea Wolves, The",
-    "BookThumbnail": "https://robohash.org/omnisexplicabovoluptas.png?size=50x50&set=set1",
-    "BookID": "c5a68d08-fc5c-4ad3-bef7-7e4e400ec7e0"
-  },
-  {
-    "BookName": "Widow of St. Pierre, The (Veuve de Saint-Pierre, La)",
-    "BookThumbnail": "https://robohash.org/totamconsequaturvoluptatum.png?size=50x50&set=set1",
-    "BookID": "13b8ac07-9842-48f6-bdaf-78fde11e5ad0"
-  },
-  {
-    "BookName": "Norbit",
-    "BookThumbnail": "https://robohash.org/aperiamquiaab.png?size=50x50&set=set1",
-    "BookID": "d240aa28-c0ff-4826-89fe-a9b3f59d21c3"
-  },
-  {
-    "BookName": "Haunting at Silver Falls, A",
-    "BookThumbnail": "https://robohash.org/autearumcum.jpg?size=50x50&set=set1",
-    "BookID": "c0d3f9d7-0dd7-49a9-b406-93768e9acdb1"
-  },
-  {
-    "BookName": "Privilege",
-    "BookThumbnail": "https://robohash.org/maioresametquas.jpg?size=50x50&set=set1",
-    "BookID": "0476e8f6-ff86-4065-bdcf-8b522c102dbd"
-  },
-  {
-    "BookName": "Cat Ballou",
-    "BookThumbnail": "https://robohash.org/ullamdoloremunde.bmp?size=50x50&set=set1",
-    "BookID": "cd303ac0-f8b7-43bb-bf4f-e8536f10f7d8"
-  },
-  {
-    "BookName": "My Science Project",
-    "BookThumbnail": "https://robohash.org/autearumin.png?size=50x50&set=set1",
-    "BookID": "31bb3b0b-dd69-4808-aaa4-af8947de374d"
-  },
-  {
-    "BookName": "Age of the Earth, The (A Idade da Terra)",
-    "BookThumbnail": "https://robohash.org/solutaenimeos.bmp?size=50x50&set=set1",
-    "BookID": "3e3077c4-fc06-48f4-9448-a0bf0a55c2e7"
-  },
-  {
-    "BookName": "Generation Kill",
-    "BookThumbnail": "https://robohash.org/quimolestiaenisi.bmp?size=50x50&set=set1",
-    "BookID": "0a7915d3-a638-4e16-80a0-7d9b4dac7493"
-  },
-  {
-    "BookName": "The Amazing Screw-On Head",
-    "BookThumbnail": "https://robohash.org/quisquiet.jpg?size=50x50&set=set1",
-    "BookID": "61dc6df3-0124-4620-b290-0da30858d1db"
-  },
-  {
-    "BookName": "Smell of Camphor, Fragrance of Jasmine (Booye kafoor, atre yas)",
-    "BookThumbnail": "https://robohash.org/occaecatiquasquam.bmp?size=50x50&set=set1",
-    "BookID": "8df0aba0-de18-4032-9297-bd6747c8d71d"
-  },
-  {
-    "BookName": "Cookie's Fortune",
-    "BookThumbnail": "https://robohash.org/autemetomnis.bmp?size=50x50&set=set1",
-    "BookID": "c959c44c-29c3-4026-b57e-b1a67d63b2ae"
-  },
-  {
-    "BookName": "Harakiri",
-    "BookThumbnail": "https://robohash.org/recusandaequidemsint.bmp?size=50x50&set=set1",
-    "BookID": "6cad6340-051a-41f9-8283-6e94f632cad4"
-  },
-  {
-    "BookName": "Marrying Kind, The",
-    "BookThumbnail": "https://robohash.org/remetfugit.bmp?size=50x50&set=set1",
-    "BookID": "892dc829-f9f7-47d6-961d-4ae771a8f235"
-  },
-  {
-    "BookName": "Beverly Hills Cop",
-    "BookThumbnail": "https://robohash.org/eoshicquod.png?size=50x50&set=set1",
-    "BookID": "3beb10de-5908-4f1b-bbc2-3e97294bb754"
-  },
-  {
-    "BookName": "To Die For",
-    "BookThumbnail": "https://robohash.org/iustoauteius.png?size=50x50&set=set1",
-    "BookID": "6f11e094-38b8-482b-908c-18edeb53ec54"
-  },
-  {
-    "BookName": "Food, Inc.",
-    "BookThumbnail": "https://robohash.org/verovelsoluta.bmp?size=50x50&set=set1",
-    "BookID": "41d29885-8623-4d2c-9d88-d1fda0884cd9"
-  },
-  {
-    "BookName": "Children of Heaven, The (Bacheha-Ye Aseman)",
-    "BookThumbnail": "https://robohash.org/officiisnisiid.bmp?size=50x50&set=set1",
-    "BookID": "125d5ec5-3fad-42ef-bc4a-595ced902eb2"
-  },
-  {
-    "BookName": "Frozen Ground, The",
-    "BookThumbnail": "https://robohash.org/distinctiotemporibuspraesentium.png?size=50x50&set=set1",
-    "BookID": "3d48a0a5-1c78-4481-b366-e77017bb6ab8"
-  },
-  {
-    "BookName": "How Wang-Fo Was Saved (Comment Wang-Fo fut sauvé)",
-    "BookThumbnail": "https://robohash.org/nequetemporefacere.png?size=50x50&set=set1",
-    "BookID": "a8aaaa41-6338-4612-8104-3fb2ff886d42"
-  },
-  {
-    "BookName": "Wanderlust",
-    "BookThumbnail": "https://robohash.org/ducimusassumendaaut.jpg?size=50x50&set=set1",
-    "BookID": "558121ef-f72a-4eb1-97ec-5bd56b314d99"
-  },
-  {
-    "BookName": "1981",
-    "BookThumbnail": "https://robohash.org/beataesintvelit.png?size=50x50&set=set1",
-    "BookID": "10c9613d-f766-42aa-936f-392a4d60faf7"
-  },
-  {
-    "BookName": "Think Like a Man Too",
-    "BookThumbnail": "https://robohash.org/maximeliberotempora.png?size=50x50&set=set1",
-    "BookID": "c8af330d-9e2e-4dd5-8f5b-5786e4519403"
-  },
-  {
-    "BookName": "Artists and Models",
-    "BookThumbnail": "https://robohash.org/rerumetvel.png?size=50x50&set=set1",
-    "BookID": "0b622cd5-64e4-44bb-ad21-5240f5021d6b"
-  },
-  {
-    "BookName": "I'm No Angel",
-    "BookThumbnail": "https://robohash.org/doloremsuscipitpossimus.png?size=50x50&set=set1",
-    "BookID": "14e56ea7-8c77-4b89-ba84-617710cb74c6"
-  },
-  {
-    "BookName": "Inspectors, The",
-    "BookThumbnail": "https://robohash.org/adestet.png?size=50x50&set=set1",
-    "BookID": "db9089fa-2d82-44f6-8411-18cd665015aa"
-  },
-  {
-    "BookName": "Tyler Perry's The Family That Preys",
-    "BookThumbnail": "https://robohash.org/delectusestoccaecati.png?size=50x50&set=set1",
-    "BookID": "37f6a69f-43ed-452b-a63c-25f3db1e13da"
-  },
-  {
-    "BookName": "Last Days of Pompeii, The",
-    "BookThumbnail": "https://robohash.org/quisnullamolestiae.png?size=50x50&set=set1",
-    "BookID": "e0b6ff70-1ac8-45bc-94e1-814d7a7a2b04"
-  },
-  {
-    "BookName": "Boomerang",
-    "BookThumbnail": "https://robohash.org/praesentiumquaseum.png?size=50x50&set=set1",
-    "BookID": "03c1afd6-e13f-432a-8438-3207d286c5ae"
-  },
-  {
-    "BookName": "Women, The",
-    "BookThumbnail": "https://robohash.org/nisioccaecatiut.png?size=50x50&set=set1",
-    "BookID": "7eb88475-5dd1-4ae1-b69b-dbbb9ff9de8d"
-  },
-  {
-    "BookName": "Made for Each Other",
-    "BookThumbnail": "https://robohash.org/perspiciatisnondistinctio.jpg?size=50x50&set=set1",
-    "BookID": "93b8722e-b441-4f7e-8bda-857b55e78a7b"
-  },
-  {
-    "BookName": "The African",
-    "BookThumbnail": "https://robohash.org/quibusdamnihilqui.png?size=50x50&set=set1",
-    "BookID": "b97047ca-37aa-4f02-9843-384cc9f24cf5"
-  },
-  {
-    "BookName": "Howling III: The Marsupials",
-    "BookThumbnail": "https://robohash.org/voluptatemeligendiiure.jpg?size=50x50&set=set1",
-    "BookID": "d205e323-9af3-44ed-b416-3914b77a5f69"
-  },
-  {
-    "BookName": "Some Came Running",
-    "BookThumbnail": "https://robohash.org/oditteneturvoluptate.bmp?size=50x50&set=set1",
-    "BookID": "7032dc63-5558-480c-80df-33226bd90303"
-  },
-  {
-    "BookName": "Cowboy",
-    "BookThumbnail": "https://robohash.org/perferendisexdolor.jpg?size=50x50&set=set1",
-    "BookID": "733360fe-d339-464c-8f0f-8d9efdb7482f"
-  },
-  {
-    "BookName": "Ritz, The",
-    "BookThumbnail": "https://robohash.org/quiquiaaliquid.bmp?size=50x50&set=set1",
-    "BookID": "dda24c20-86d5-42b3-bd65-6b3130395bfc"
-  },
-  {
-    "BookName": "Life as We Know It",
-    "BookThumbnail": "https://robohash.org/necessitatibusaliquideligendi.png?size=50x50&set=set1",
-    "BookID": "86af2fdf-7369-473a-bf6c-939a8b4c8d3e"
-  },
-  {
-    "BookName": "It's My Mother's Birthday Today",
-    "BookThumbnail": "https://robohash.org/dictaestut.png?size=50x50&set=set1",
-    "BookID": "c2d686e5-bf12-4c96-9854-8afcf02963c4"
-  },
-  {
-    "BookName": "Outrageous Fortune",
-    "BookThumbnail": "https://robohash.org/illoreiciendisrerum.jpg?size=50x50&set=set1",
-    "BookID": "db141df9-d1ef-4dd0-b37d-f8cacd319ce9"
-  },
-  {
-    "BookName": "Tie Xi Qu: West of the Tracks (Tiexi qu)",
-    "BookThumbnail": "https://robohash.org/perferendisetautem.png?size=50x50&set=set1",
-    "BookID": "dba4ddee-0a65-462b-bde2-3e033776ed61"
-  },
-  {
-    "BookName": "Garden Party",
-    "BookThumbnail": "https://robohash.org/perspiciatisiureat.bmp?size=50x50&set=set1",
-    "BookID": "8cbf6967-9e49-418b-b4ad-2b434e3346ed"
-  },
-  {
-    "BookName": "Sticky Fingers of Time, The",
-    "BookThumbnail": "https://robohash.org/veroiureaut.bmp?size=50x50&set=set1",
-    "BookID": "2089ee35-378c-4ad3-951a-4f43431a366d"
-  },
-  {
-    "BookName": "Les Formidables (Gang-jeok)",
-    "BookThumbnail": "https://robohash.org/nihilautemsed.bmp?size=50x50&set=set1",
-    "BookID": "8d40fe43-a51b-4b85-8d62-9f767c7daf7f"
-  },
-  {
-    "BookName": "Scenesters, The",
-    "BookThumbnail": "https://robohash.org/etducimusquas.png?size=50x50&set=set1",
-    "BookID": "89fa1bd3-a277-4ee2-b4ce-08d7298aaf16"
-  },
-  {
-    "BookName": "Dial 1119",
-    "BookThumbnail": "https://robohash.org/autcupiditatemolestias.bmp?size=50x50&set=set1",
-    "BookID": "b86b21f6-8811-4aa9-bb9f-e539619adbbe"
-  },
-  {
-    "BookName": "My Afternoons with Margueritte (La tête en friche)",
-    "BookThumbnail": "https://robohash.org/suscipitquoquibusdam.bmp?size=50x50&set=set1",
-    "BookID": "017688f2-ab54-4fa7-ab9c-dde59de630e0"
-  },
-  {
-    "BookName": "Haunting, The",
-    "BookThumbnail": "https://robohash.org/inimpeditveritatis.bmp?size=50x50&set=set1",
-    "BookID": "339e3c15-5099-4168-9da1-d21042cb1d65"
-  },
-  {
-    "BookName": "Father of the Bride",
-    "BookThumbnail": "https://robohash.org/voluptatemperspiciatisquae.jpg?size=50x50&set=set1",
-    "BookID": "724ece6f-d617-4be5-a87d-c7f661646845"
-  },
-  {
-    "BookName": "Unsaid, The",
-    "BookThumbnail": "https://robohash.org/consequaturabatque.png?size=50x50&set=set1",
-    "BookID": "6a251b70-4ec2-4deb-b385-97130443590f"
-  },
-  {
-    "BookName": "City of Angels",
-    "BookThumbnail": "https://robohash.org/autreprehenderitarchitecto.png?size=50x50&set=set1",
-    "BookID": "4aad2798-19ec-4b93-b9a6-543aa5a12e43"
-  },
-  {
-    "BookName": "Buddha Collapsed Out of Shame",
-    "BookThumbnail": "https://robohash.org/velfugiatet.jpg?size=50x50&set=set1",
-    "BookID": "1ef7278d-5778-4a27-a8e5-2dccef23aefb"
-  },
-  {
-    "BookName": "Last Will of Dr. Mabuse, The (Testament du Dr. Mabuse, Le)",
-    "BookThumbnail": "https://robohash.org/placeatdignissimosodio.jpg?size=50x50&set=set1",
-    "BookID": "be2d1ff0-716a-46c9-9c25-84901f9bfc69"
-  },
-  {
-    "BookName": "King Creole",
-    "BookThumbnail": "https://robohash.org/doloreadipisciut.bmp?size=50x50&set=set1",
-    "BookID": "0253099e-9530-446e-bf8b-b9106f20a31f"
-  },
-  {
-    "BookName": "Into Eternity",
-    "BookThumbnail": "https://robohash.org/suntdoloremsequi.png?size=50x50&set=set1",
-    "BookID": "f8464dc6-0bb4-4171-b9ae-f4d57343ba6f"
-  },
-  {
-    "BookName": "Benji the Hunted",
-    "BookThumbnail": "https://robohash.org/consequaturlaboreexcepturi.png?size=50x50&set=set1",
-    "BookID": "4180f742-e55c-49de-9a7e-81bcc6052275"
-  },
-  {
-    "BookName": "Shaft in Africa",
-    "BookThumbnail": "https://robohash.org/quisetaut.jpg?size=50x50&set=set1",
-    "BookID": "43501717-b4fd-4852-a327-56a5d9987c95"
-  },
-  {
-    "BookName": "711 Ocean Drive",
-    "BookThumbnail": "https://robohash.org/atquenihilqui.bmp?size=50x50&set=set1",
-    "BookID": "19a2f4bf-5a2e-4a57-a2ba-80029f75bb03"
-  },
-  {
-    "BookName": "Little Lili (La petite Lili)",
-    "BookThumbnail": "https://robohash.org/sequiquisquamqui.png?size=50x50&set=set1",
-    "BookID": "1db3f191-3c7f-44c1-992d-222090030174"
-  },
-  {
-    "BookName": "Sister My Sister",
-    "BookThumbnail": "https://robohash.org/adremomnis.jpg?size=50x50&set=set1",
-    "BookID": "25e5442d-ce74-435b-914e-3608a081a16b"
-  },
-  {
-    "BookName": "Alexander Nevsky (Aleksandr Nevskiy)",
-    "BookThumbnail": "https://robohash.org/uterrormagnam.bmp?size=50x50&set=set1",
-    "BookID": "8e530d00-44c6-4449-974b-ef596023cb55"
-  },
-  {
-    "BookName": "Obama Deception: The Mask Comes Off, The",
-    "BookThumbnail": "https://robohash.org/utexpeditaa.bmp?size=50x50&set=set1",
-    "BookID": "7d521eec-404b-4617-9909-b83073b8e6cc"
-  },
-  {
-    "BookName": "Two for the Road",
-    "BookThumbnail": "https://robohash.org/nostruminciduntquis.jpg?size=50x50&set=set1",
-    "BookID": "264ef288-6906-4c51-8347-c7acade802c1"
-  },
-  {
-    "BookName": "Ella Lola, a la Trilby",
-    "BookThumbnail": "https://robohash.org/cumqueeveniettempora.bmp?size=50x50&set=set1",
-    "BookID": "ac384cc4-9297-41bd-8c6a-0fd2f5e002ce"
-  },
-  {
-    "BookName": "Rocket from Calabuch, The (Calabuch)",
-    "BookThumbnail": "https://robohash.org/quosrepellendussimilique.jpg?size=50x50&set=set1",
-    "BookID": "b8f9ca4d-e370-47c7-9f07-06d9509b78e9"
-  },
-  {
-    "BookName": "One from the Heart",
-    "BookThumbnail": "https://robohash.org/nihilmollitiaculpa.bmp?size=50x50&set=set1",
-    "BookID": "ab13f445-e77a-44a5-9536-9a8a06b3c3fd"
-  },
-  {
-    "BookName": "How to Eat Your Watermelon in White Company (and Enjoy It)",
-    "BookThumbnail": "https://robohash.org/voluptasasperioresea.png?size=50x50&set=set1",
-    "BookID": "4e975e76-763f-4579-aace-33602be03003"
-  },
-  {
-    "BookName": "V.I.P.s, The",
-    "BookThumbnail": "https://robohash.org/modirecusandaesequi.png?size=50x50&set=set1",
-    "BookID": "922344db-c082-47e2-89d0-4a268b9be0db"
-  },
-  {
-    "BookName": "Buffy the Vampire Slayer",
-    "BookThumbnail": "https://robohash.org/quasietdolorem.bmp?size=50x50&set=set1",
-    "BookID": "695252d9-7402-4e2e-bb7c-aef7bff1dd46"
-  },
-  {
-    "BookName": "Southerner, The",
-    "BookThumbnail": "https://robohash.org/undeaspernaturdolorem.jpg?size=50x50&set=set1",
-    "BookID": "d66eca5a-8da7-4817-972d-fa4e01c9f000"
-  },
-  {
-    "BookName": "Brazil",
-    "BookThumbnail": "https://robohash.org/autemnecessitatibusmodi.png?size=50x50&set=set1",
-    "BookID": "933ecd14-a85f-4369-b03b-7b7e40aea3ea"
-  },
-  {
-    "BookName": "Nico and Dani (Krámpack)",
-    "BookThumbnail": "https://robohash.org/estesseut.png?size=50x50&set=set1",
-    "BookID": "f37d555b-18a6-4bc0-812b-2173c995f111"
-  },
-  {
-    "BookName": "Enchanted Cottage, The",
-    "BookThumbnail": "https://robohash.org/mollitianecessitatibuscupiditate.jpg?size=50x50&set=set1",
-    "BookID": "33bc424a-5a54-4601-971a-a97a1613faee"
-  },
-  {
-    "BookName": "Maîtresse (Mistress)",
-    "BookThumbnail": "https://robohash.org/estquasvoluptates.bmp?size=50x50&set=set1",
-    "BookID": "ae0d89ce-db02-48dc-9de6-229f8f9378c1"
+    "BookID": "5daea1d948e62cee80274e08c97457eb",
+    "BookName": "Send a Bullet (Manda Bala)",
+    "BookThumbnail": "https://images-na.ssl-images-amazon.com/images/I/51jTe3femKL._SY300_QL70_.jpg",
+    "Description": "nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit",
+    "RateNumber": 3.8
   }
 ]

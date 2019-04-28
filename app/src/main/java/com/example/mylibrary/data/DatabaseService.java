@@ -15,9 +15,12 @@ import com.example.mylibrary.data.dao.BookTypeDao;
 import com.example.mylibrary.data.model.Author;
 import com.example.mylibrary.data.model.Book;
 import com.example.mylibrary.data.model.BookType;
+import com.example.mylibrary.data.model.CreateDataEvent;
 import com.example.mylibrary.utils.CommonUtils;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+
+import org.greenrobot.eventbus.EventBus;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -130,12 +133,19 @@ public class DatabaseService {
                                     authorIndex = CommonUtils.randomInt(0, authorList.size());
                                     book.setAuthorID(authorList.get(authorIndex).getAuthorID());
                                 }
-                                getBookDao().addBook(book);
                             }
+                            getBookDao().addAllBook(bookList);
                         }
                     }
 
                     return null;
+
+                }
+
+                @Override
+                protected void onPostExecute(Void aVoid) {
+                    super.onPostExecute(aVoid);
+                    EventBus.getDefault().post(new CreateDataEvent());
                 }
             }.execute();
 

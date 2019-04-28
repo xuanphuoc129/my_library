@@ -6,6 +6,53 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="FontToolbarTitle">
+        <item name="android:fontFamily">@font/latoextrabold</item>
+        <item name="android:textSize">@dimen/font_toolbar_title</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+
+    <style name="FontBodyTitle">
+        <item name="android:fontFamily">@font/latoregular</item>
+        <item name="android:textSize">@dimen/font_body_title</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <style name="FontBodyBig">
+        <item name="android:fontFamily">@font/latoextrabold</item>
+        <item name="android:textSize">@dimen/font_body_big</item>
+        <item name="android:textColor">@color/colorBlack</item>
+    </style>
+
+    <style name="FontBodyText">
+        <item name="android:fontFamily">@font/latoregular</item>
+        <item name="android:textSize">@dimen/font_body_text</item>
+        <item name="android:textColor">@color/colorBlackBody</item>
+    </style>
+
+
+    <style name="FontButton">
+        <item name="android:fontFamily">@font/latobold</item>
+        <item name="android:textSize">@dimen/font_button</item>
+    </style>
+
+    <style name="FontCaption">
+        <item name="android:fontFamily">@font/latoregular</item>
+        <item name="android:textSize">@dimen/font_caption</item>
+        <item name="android:textColor">@color/colorGray</item>
+    </style>
+
+
+    <style name="FontOverline">
+        <item name="android:fontFamily">@font/latoregular</item>
+        <item name="android:textSize">@dimen/font_overline</item>
+        <item name="android:textColor">@color/colorGray</item>
     </style>
 
 </resources>

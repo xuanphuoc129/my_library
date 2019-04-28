@@ -21,6 +21,15 @@ public class Author {
     @ColumnInfo(name = "AuthorName")
     private String AuthorName; // tên tác giả
 
+    @ColumnInfo(name = "Gender")
+    private String Gender;
+
+    @ColumnInfo(name = "Description")
+    private String Description;
+
+    @ColumnInfo(name = "Avatar")
+    private String Avatar;
+
     public Author() {
     }
 
@@ -38,5 +47,29 @@ public class Author {
 
     public void setAuthorName(String authorName) {
         AuthorName = authorName;
+    }
+
+    public String getGender() {
+        return Gender;
+    }
+
+    public void setGender(String gender) {
+        Gender = gender;
+    }
+
+    public String getDescription() {
+        return Description;
+    }
+
+    public void setDescription(String description) {
+        Description = description;
+    }
+
+    public String getAvatar() {
+        return Avatar;
+    }
+
+    public void setAvatar(String avatar) {
+        Avatar = avatar;
     }
 }

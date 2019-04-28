@@ -34,4 +34,9 @@ public interface IBookDataSource {
 
     // tìm kiếm sách theo tên thể loại sách
     List<BookInType> searchBookByTypeName(String typeName);
+
+    // lấy danh sách thể loại sách xem trước
+    List<BookInType> getBookInTypePreview();
+
+    List<Book> getBookPopular();
 }

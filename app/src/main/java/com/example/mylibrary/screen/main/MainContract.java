@@ -1,5 +1,10 @@
 package com.example.mylibrary.screen.main;
 
+/**
+ * View cho màn hình chính
+ *
+ * @created_by xuan phuoc on 2019-04-27
+ */
 public interface MainContract {
 
     interface IView {
@@ -7,8 +12,6 @@ public interface MainContract {
     }
 
     interface IPresenter {
-
-        void onLoadBooks();
 
     }
 

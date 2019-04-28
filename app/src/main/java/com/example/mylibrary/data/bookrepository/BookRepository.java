@@ -292,4 +292,32 @@ public class BookRepository implements IBookDataSource {
         }
         return null;
     }
+
+    /**
+    *
+    * @created_by xuan phuoc on 2019-04-28
+    */
+    @Override
+    public List<BookInType> getBookInTypePreview() {
+        try {
+            return mBookDao.getBookInTypePreview();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
+
+    /**
+    *
+    * @created_by xuan phuoc on 2019-04-28
+    */
+    @Override
+    public List<Book> getBookPopular() {
+        try {
+            return mBookDao.getBookPopular();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return null;
+    }
 }

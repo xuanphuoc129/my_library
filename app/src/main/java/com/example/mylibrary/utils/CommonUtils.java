@@ -1,6 +1,12 @@
 package com.example.mylibrary.utils;
 
 import android.content.Context;
+import android.widget.ImageView;
+
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.resource.bitmap.RoundedCorners;
+import com.bumptech.glide.request.RequestOptions;
+import com.example.mylibrary.R;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -47,8 +53,22 @@ public class CommonUtils {
      *
      * @created_by xuan phuoc on 2019-04-27
      */
-    public static int randomInt(int start, int end){
+    public static int randomInt(int start, int end) {
         Random r = new Random();
         return r.nextInt(end - start) + start;
+    }
+
+    /**
+    *
+    * @created_by xuan phuoc on 2019-04-27
+    */
+    public static void loadImageFromUrl(Context context, ImageView imageView, String url) {
+        Glide
+                .with(context)
+                .load(url)
+                .apply(RequestOptions.centerCropTransform())
+                .apply(RequestOptions.bitmapTransform(new RoundedCorners(5)))
+                .placeholder(R.drawable.ic_image)
+                .into(imageView);
     }
 }

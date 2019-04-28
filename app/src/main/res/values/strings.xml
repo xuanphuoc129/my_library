@@ -3,4 +3,16 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint_label">Search</string>
+    <string name="title_user">User</string>
+    <string name="default_rate_text">4.5</string>
+    <string name="default_book_name">Harry Potter</string>
+    <string name="default_author_name">Kenry</string>
+    <string name="defaut_book_type_name">Comic</string>
+    <string name="default_number_book">35 books</string>
+    <string name="book_unit">books</string>
+    <string name="popular_book_title">Popular Books</string>
 </resources>
