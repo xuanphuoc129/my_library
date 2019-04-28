@@ -11,8 +11,7 @@
         android:layout_width="75dp"
         android:layout_height="100dp"
         android:background="@drawable/bg_book_thumbnail"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/ic_launcher_foreground" />
+        android:contentDescription="@string/app_name" />
 
     <LinearLayout
         android:layout_width="0dp"
@@ -56,11 +55,11 @@
     </LinearLayout>
 
     <RelativeLayout
-        android:clickable="true"
-        android:focusable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/bg_circle_button"
+        android:clickable="true"
+        android:focusable="true"
         android:gravity="center">
 
         <ImageView
@@ -72,12 +71,12 @@
     </RelativeLayout>
 
     <RelativeLayout
-        android:clickable="true"
-        android:focusable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/margin_haft"
         android:background="@drawable/bg_circle_button"
+        android:clickable="true"
+        android:focusable="true"
         android:gravity="center">
 
         <ImageView
@@ -89,12 +88,12 @@
     </RelativeLayout>
 
     <RelativeLayout
-        android:clickable="true"
-        android:focusable="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/margin_haft"
         android:background="@drawable/bg_circle_button"
+        android:clickable="true"
+        android:focusable="true"
         android:gravity="center">
 
         <ImageView
